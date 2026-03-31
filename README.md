@@ -1,1 +1,1 @@
-# ai-sql-first-project
+cursor-dba-practice
